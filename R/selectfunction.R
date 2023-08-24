@@ -9,10 +9,10 @@
 #' @examples
 #' 
 #' 
-#' 
-#' 
-
 select <- function(x, var) {
   x[var]
   
 }
+
+
+
